@@ -81,4 +81,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Author
 
-This project was created by [Your Name]. Feel free to reach out if you have any questions or suggestions!
+This project was created by Carl Nester. Feel free to reach out if you have any questions or suggestions!
